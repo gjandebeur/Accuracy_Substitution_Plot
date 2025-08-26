@@ -2,7 +2,7 @@
 Full Pipeline to produce a plot showing accuracy of basecaller reads compared to reference.
 
 *Creates the following graph*
-<img width="2400" height="1800" alt="hbec_IVT_substitutionplot" src="https://github.com/user-attachments/assets/040ca5fd-af92-4217-b5e6-5d25caed607d" />
+<img width="800" height="600" alt="hbec_IVT_substitutionplot" src="https://github.com/user-attachments/assets/040ca5fd-af92-4217-b5e6-5d25caed607d" />
 
 
 
